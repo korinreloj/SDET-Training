@@ -1,0 +1,1 @@
+{"firstName": "Timmy", "lastName": "Aguilar", "address": "test address", "city": "Princeton", "state": "NJ", "zipcode": "123", "nation": "USA", "hobbies": ["cricket", "football", "tennis"], "age": 29, "child": [{"firstName": "Kim", "age": 19}, {"firstName": "Ezra", "age": 17}]}
